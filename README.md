@@ -1,4 +1,4 @@
 # Анвар Гиниятов
 My first website
 
-[Урок 12](https://anvarrex.github.io/src/ "Моя готовая домашка")
+[Урок 12](https://anvarrex.github.io/src/ "Моя готовая домашка") - Работа с репозиториями на GitHub
