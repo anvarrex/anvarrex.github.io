@@ -1,2 +1,2 @@
-# anvarrex.github.io
+# Анвар Гиниятов
 My first website
